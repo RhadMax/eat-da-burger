@@ -28,7 +28,6 @@ Simply click the "Eat it!!" buttons to consume a burger on the left hand side of
 ---
 
 ### Technologies
-### Technologies
 This application makes use of the following technologies:
 
 1. Javascript
